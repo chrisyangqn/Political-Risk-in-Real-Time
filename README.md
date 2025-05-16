@@ -87,7 +87,7 @@ Cluster 1 = stable signals → Low Risk
 
 Risk spiked right after April 4 and stabilized within 7 days.
 
-![Time Series Clustering](figures/Time Series.png)
+![Time Series Clustering](figures/TimeSeries.png)
 
 ---
 
